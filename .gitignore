@@ -1,3 +1,7 @@
 ﻿Savant.Api/.vs
 Savant.Api/Savant.Api/bin
 Savant.Api/Savant.Api/obj
+Savant.Api/Savant.Api.UnitTests/bin
+Savant.Api/Savant.Api.UnitTests/obj
+Savant.Api/Savant.Api.IntegrationTests/bin
+Savant.Api/Savant.Api.IntegrationTests/obj
